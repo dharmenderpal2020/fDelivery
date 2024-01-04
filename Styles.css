@@ -1,0 +1,24 @@
+#section1{
+    width: 1920px;
+height: 940px;
+flex-shrink: 0;
+background: #FFF;
+}
+
+#dLogo{
+    color: #FFF;
+font-family: Poppins;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px; /* 100% */
+letter-spacing: -0.28px;
+}
+#fDelivery{
+color:   #F94A3D);
+font-family: Poppins;
+font-size: 30px;
+font-weight: 700;
+line-height: 28px; /* 93.333% */
+letter-spacing: -0.3px;
+}
